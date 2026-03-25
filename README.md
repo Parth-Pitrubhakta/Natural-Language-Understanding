@@ -59,7 +59,7 @@ The projects are built from scratch as well as using optimized libraries to prov
 ## 🚀 Setup & Installation
 
 ```bash
-git clone https://github.com/your-username/Natural-Language-Understanding.git
+git clone https://github.com/Parth-Pitrubhakta/Natural-Language-Understanding.git
 cd Natural-Language-Understanding
 ```
 
