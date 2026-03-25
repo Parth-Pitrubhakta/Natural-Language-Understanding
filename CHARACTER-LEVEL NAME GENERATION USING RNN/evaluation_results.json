@@ -1,0 +1,20 @@
+{
+  "VanillaRNN": {
+    "total_generated": 100,
+    "unique_generated": 100,
+    "novelty_rate": 98.0,
+    "diversity": 1.0
+  },
+  "BLSTM": {
+    "total_generated": 100,
+    "unique_generated": 62,
+    "novelty_rate": 100.0,
+    "diversity": 0.62
+  },
+  "AttentionRNN": {
+    "total_generated": 100,
+    "unique_generated": 87,
+    "novelty_rate": 100.0,
+    "diversity": 0.87
+  }
+}

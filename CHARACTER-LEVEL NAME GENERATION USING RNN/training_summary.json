@@ -1,0 +1,31 @@
+{
+  "hyperparameters": {
+    "embed_size": 64,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 64,
+    "epochs": 100,
+    "grad_clip": 5.0,
+    "temperature": 1.0,
+    "device": "cpu"
+  },
+  "models": {
+    "VanillaRNN": {
+      "param_count": 66285,
+      "final_loss": 0.7987713532483123,
+      "generated_count": 100
+    },
+    "BLSTM": {
+      "param_count": 896749,
+      "final_loss": 0.00986493347077414,
+      "generated_count": 100
+    },
+    "AttentionRNN": {
+      "param_count": 88493,
+      "final_loss": 0.7167874570480103,
+      "generated_count": 100
+    }
+  }
+}
